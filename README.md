@@ -146,6 +146,6 @@ To design and implement a structured SQL database that:
 📷 **Project Screenshots Include:**
 (https://github.com/Vikrant123-vik/SQL-Project-Airline-Reservation-System-/blob/main/Snapshot1%20of%20SQL%20Dashboard.png)
 (https://github.com/Vikrant123-vik/SQL-Project-Airline-Reservation-System-/blob/main/Snapshot2%20of%20SQL%20Dashboard.png)
-()
+(https://github.com/Vikrant123-vik/SQL-Project-Airline-Reservation-System-/blob/main/Snapshot3%20of%20SQL%20Dashboard.png)
 
 
