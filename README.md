@@ -144,7 +144,7 @@ To design and implement a structured SQL database that:
 ## 7. Screenshots / Demo
 
 📷 **Project Screenshots Include:**
-()
+(https://github.com/Vikrant123-vik/SQL-Project-Airline-Reservation-System-/blob/main/Snapshot1%20of%20SQL%20Dashboard.png)
 ()
 ()
 
